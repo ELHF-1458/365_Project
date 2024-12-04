@@ -1,4 +1,4 @@
-# 🎓 Customer Engagement Analysis with Tableau and SQL
+# 🎓 Customer Engagement Analysis with Tableau
 
 This project focuses on analyzing student engagement on an online learning platform. The analysis is aimed at uncovering key insights such as popular courses, user behavior trends, and regional engagement to identify areas of improvement.
 
@@ -6,7 +6,7 @@ This project focuses on analyzing student engagement on an online learning platf
 
 ## 📌 Project Overview
 
-The project is structured into three main pages, each designed to answer specific business questions and provide actionable insights:
+The project is structured into three main dashboard pages, each designed to answer specific business questions and provide actionable insights:
 
 ### **Page 1: Overview**
 - **Key Performance Indicators (KPIs)**:
