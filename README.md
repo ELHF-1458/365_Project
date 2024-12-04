@@ -44,11 +44,4 @@ This project seeks to answer the following questions:
 ## 🛠️ Tools and Technologies Used
 
 - **Tableau**: For data visualization and dashboard creation.
-- **SQL**: To extract and preprocess data from relational databases.
 - **GitHub**: To store and manage project files.
-- **Video Creation**: For documenting and explaining the project (e.g., using OBS or Camtasia).
-
----
-
-## 📂 Project Structure
-
